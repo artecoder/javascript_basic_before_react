@@ -7,3 +7,15 @@ Si vienes de un lenguaje O.O., puede que ya sepas el uso de este operador, es ba
 
 ## 2. Notaciones y creación de objetos. "2.notacion_creacion_objetos.js".
 Existen varias notaciones para creación de objetos, además la invocación de variables puede ser antes de invocarla, debido a que primero se cargan estas funciones. Este ejemplo muestra como hacer dichas declaraciones de diferentes maneras
+
+## 3. Funciones en una sola línea "3.funciones_en_una_linea.js".
+Esto se hace a través de "arrows functions", además podemos usar funciones anónimas.
+
+## 4. Template Literals, "4.template_literals.js".
+Crea cadenas de una manera más dinámica, también pueden usarse funciones dentro de los literales.
+
+## 5. Uso de switch "5.switch.js".
+Es una sentencia común en los lenguajes de programación, aca no es la excepción y se puede utilizar facilmente
+
+## 6. Des-estructuración de objetos "6.object-deestructuration.js".
+Es la extracción de propiedades en variables, generalmente en React se usa en los parámetros de funciones.
