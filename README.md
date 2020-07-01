@@ -1,4 +1,4 @@
-# javascript basico antes de React
+# JavaScript básico antes de React
 Este repositorio trata de todo lo referente a Javascript antes de empezar a aprender React, Node.JS o cualquier otro Framework de JS.
 Esta basado en este artículo: http://blog.logrocket.com/javascript-concepts-before-learning-react
 
@@ -17,5 +17,8 @@ Crea cadenas de una manera más dinámica, también pueden usarse funciones dent
 ## 5. Uso de switch "5.switch.js".
 Es una sentencia común en los lenguajes de programación, aca no es la excepción y se puede utilizar facilmente
 
-## 6. Des-estructuración de objetos "6.object-deestructuration.js".
+## 6. Des-estructuración de objetos "6.object-deestruc.js".
 Es la extracción de propiedades en variables, generalmente en React se usa en los parámetros de funciones.
+
+## 7. Des-estructuración de arreglos "7.array-deestruc.js".
+Permite sacar valores en distintas variables. Esto es muy usado en React Hooks.
