@@ -47,3 +47,14 @@ Esto es muy importante para React. Veremos las principales funciones sobre arreg
 * Función filter() -> que ayuda a poner un filtro dependiendo una condición.
 * Función findIndex() -> Devuelve el índice que cumpla una condición.
 * Función find() -> Depende de la condición devuelve un elemento.
+
+## 13. Mutable vs Inmutable.
+Que cambian vs que no cambian.
+Ej de mutables: Objetos. -> Se pueden hacer inmutables "object.freeze()" o usando la librería "Inmutable.js"
+Ej de inmutables: valores inmutables. 
+
+No se recomentable en React cambiar variables de estado directamente.
+
+## 14. Funciones de callback.
+Son funciones que pasan como argumento a otra función.
+* Función SetTimeout() -> Ejecuta la función después de el tiempo determinado.
