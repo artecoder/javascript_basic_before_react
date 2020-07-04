@@ -33,3 +33,10 @@ Se usa dentro de la firma de una función, a través del operador "...".
 La declaración de funciones son las de siempre, las que se usan en JS desde sus inicios.
 La expresión de funciones son asignadas y pueden ser usadas en variables.
 Las arrow functions representan una manera más concisa de usar funciones.
+
+## 11. Clases
+Son Blueprint de nuevos objetos
+* Propiedades y métodos
+* Constructor con: constructor() dentro de la clase.
+* Herencia: super() para acceder al padre y extends para heredar.
+* Instancia actual: this. Funciona de manera diferente a como se usa en lenguajes orientados a objetos.
