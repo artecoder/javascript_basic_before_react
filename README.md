@@ -40,3 +40,10 @@ Son Blueprint de nuevos objetos
 * Constructor con: constructor() dentro de la clase.
 * Herencia: super() para acceder al padre y extends para heredar.
 * Instancia actual: this. Funciona de manera diferente a como se usa en lenguajes orientados a objetos.
+
+## 12. funciones sobre arreglos
+Esto es muy importante para React. Veremos las principales funciones sobre arreglos.
+* Función map() -> que sirve para agregar nuevas entradas.
+* Función filter() -> que ayuda a poner un filtro dependiendo una condición.
+* Función findIndex() -> Devuelve el índice que cumpla una condición.
+* Función find() -> Depende de la condición devuelve un elemento.
