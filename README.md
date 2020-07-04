@@ -29,4 +29,7 @@ Realiza la extración de las partes, a través del operador "..." que se encuent
 ## 9. Operador 'el resto', "9.rest_op.js".
 Se usa dentro de la firma de una función, a través del operador "...".
 
-## 10. 
+## 10. Declaración de funciones, expresión de funciones y arrow functions.
+La declaración de funciones son las de siempre, las que se usan en JS desde sus inicios.
+La expresión de funciones son asignadas y pueden ser usadas en variables.
+Las arrow functions representan una manera más concisa de usar funciones.
